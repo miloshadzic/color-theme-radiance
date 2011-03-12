@@ -18,4 +18,4 @@ possible but it's not mandatory. People edit all sorts of languages
 with Emacs and I can't check them all to see how they work so if yours
 is not looking nice, please create an issue or a pull request.
 
-[1]:<http://design.canonical.com/brand/5.%20Ubuntu%20colour%20palettes%20and%20colour%20landscape.pdf>
+[1]:http://design.canonical.com/brand/5.%20Ubuntu%20colour%20palettes%20and%20colour%20landscape.pdf
