@@ -62,6 +62,14 @@
  ;; Flymake
  '(flymake-errline ((t (:background "#cc0000" :foreground "white"))))
  '(flymake-warnline ((t (:background "#fce94f"))))
+
+ ;; Autocompletion
+ '(ac-candidate-face ((t (:background "#f6f5ef" :foreground "#333333"))))
+ '(ac-selection-face ((t (:background "#f47321" :foreground "white"))))
+ '(ac-completion-face ((t (:foreground "#aea79f"))))
+ '(popup-scroll-bar-background-face ((t (:background "#f6f5ef"))))
+ '(popup-scroll-bar-foreground-face ((t (:background "#aea79f"))))
+ '(popup-tip-face ((t (:background "#f6f5ef" :foreground "#333333"))))
 )
 
 (provide-theme 'radiance)
