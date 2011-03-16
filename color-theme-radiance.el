@@ -50,7 +50,15 @@
  '(link-visited ((t (:foreground "#800080" :underline t))))
  '(button ((t (:background "#f6f5ef" :weight bold))))
  '(header-line ((t (:background "#ffffff" :foreground "#62124b"))))
- '(hl-line ((t (:background "#f6f5ef")))))
+ '(hl-line ((t (:background "#f6f5ef"))))
+
+ ;; Paren matching
+ '(paren-face-match ((t (:inherit show-paren-match-face))))
+ '(paren-face-match-light ((t (:inherit show-paren-match-face))))
+ '(paren-face-mismatch ((t (:inherit show-paren-mismatch-face))))
+ '(show-paren-match-face ((t (:background "#83a525"  :foreground "white" :bold t))))
+ '(show-paren-mismatch-face ((t (:background "#dd1144" :foreground "white"))))
+)
 
 (provide-theme 'radiance)
 
