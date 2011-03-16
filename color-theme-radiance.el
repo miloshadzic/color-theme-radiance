@@ -58,6 +58,10 @@
  '(paren-face-mismatch ((t (:inherit show-paren-mismatch-face))))
  '(show-paren-match-face ((t (:background "#83a525"  :foreground "white" :bold t))))
  '(show-paren-mismatch-face ((t (:background "#dd1144" :foreground "white"))))
+
+ ;; Flymake
+ '(flymake-errline ((t (:background "#cc0000" :foreground "white"))))
+ '(flymake-warnline ((t (:background "#fce94f"))))
 )
 
 (provide-theme 'radiance)
