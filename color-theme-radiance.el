@@ -43,7 +43,7 @@
  '(font-lock-string-face ((t (:foreground "#dd1144"))))
  '(font-lock-type-face ((t (:foreground "#83a525"))))
  '(font-lock-variable-name-face ((t (:foreground "#8b005a"))))
- '(font-lock-warning-face ((t (:foreground "#e80000" :weight bold))))
+ '(font-lock-warning-face ((t (:foreground "#cc0000" :weight bold))))
  '(isearch ((t (:background "#fedfc7" :foreground "#333333"))))
  '(lazy-highlight ((t (:background "#f6f5ef"))))
  '(link ((t (:foreground "#0086b3" :underline t))))
