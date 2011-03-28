@@ -4,6 +4,14 @@ I wanted a color-theme that would go well with Ubuntu's Radiance
 theme. The great majority of colors are from [Ubuntu colour palette and
 colour landscapes][1] document.
 
+## Installation
+
+Put it in your desired directory. Make sure **custom-theme-directory** is set to point to it and then just add:
+
+    (load-theme 'radiance)
+
+to your emacs init file.
+
 ## Screenshots
 
 <a href="http://i.imgur.com/srabm.png"><img
